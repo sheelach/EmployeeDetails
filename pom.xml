@@ -5,12 +5,12 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.restapi</groupId>
-	<artifactId>ReactspringApplication</artifactId>
+	<artifactId>EmployeeDetails</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>ReactspringApplication</name>
-	<description>Application for React and Spring</description>
+	<name>EmployeeDetails</name>
+	<description>Application built on React and Spring</description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
